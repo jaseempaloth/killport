@@ -89,7 +89,7 @@ npx killport
 ### From source
 
 ```bash
-git clone https://github.com/your-username/killport.git
+git clone https://github.com/jaseempaloth/killport.git
 cd killport
 npm install
 npm link     # symlinks the `killport` command globally
@@ -559,7 +559,7 @@ killport --json | jq length
 ### Development
 
 ```bash
-git clone https://github.com/your-username/killport.git
+git clone https://github.com/jaseempaloth/killport.git
 cd killport
 npm install
 
@@ -575,4 +575,4 @@ killport
 
 ## License
 
-MIT © 2025
+MIT © Jaseem Paloth
